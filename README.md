@@ -20,11 +20,11 @@ Antes de começar, certifique-se de que você possui as ferramentas necessárias
 
 # Configuração do Projeto
 
-# 1. Fluxograma Luminosidade:
+## 1. Fluxograma Luminosidade:
 [FLUXOGRAMA_LUMINOSIDADE.pdf](https://github.com/user-attachments/files/18510342/FLUXOGRAMA_LUMINOSIDADE.pdf)
 
-# 2. Fluxograma Temperatura:
+## 2. Fluxograma Temperatura:
 [FLUXOGRAMA_TEMPERATURA.pdf](https://github.com/user-attachments/files/18510383/FLUXOGRAMA_TEMPERATURA.pdf)
 
-# 1. Fluxograma Umidade:
+## 1. Fluxograma Umidade:
 [FLUXOGRAMA_UMIDADE.pdf](https://github.com/user-attachments/files/18510384/FLUXOGRAMA_UMIDADE.pdf)
