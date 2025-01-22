@@ -17,3 +17,14 @@ Antes de começar, certifique-se de que você possui as ferramentas necessárias
 - **Sensor de umidade do solo**: Capacitive Soil Moisture Sensor v1.2
 - **Sensor de luminosidade**: BH1750 GY-302 Lux
 - **Sensor de umidade e temperatura**: DHT11
+
+# Configuração do Projeto
+
+# 1. Fluxograma Luminosidade:
+[FLUXOGRAMA_LUMINOSIDADE.pdf](https://github.com/user-attachments/files/18510342/FLUXOGRAMA_LUMINOSIDADE.pdf)
+
+# 2. Fluxograma Temperatura:
+[FLUXOGRAMA_TEMPERATURA.pdf](https://github.com/user-attachments/files/18510383/FLUXOGRAMA_TEMPERATURA.pdf)
+
+# 1. Fluxograma Umidade:
+[FLUXOGRAMA_UMIDADE.pdf](https://github.com/user-attachments/files/18510384/FLUXOGRAMA_UMIDADE.pdf)
