@@ -12,13 +12,16 @@ Este é um código desenvolvido para a automatização de uma estufa através do
 Antes de começar, certifique-se de que você possui as ferramentas necessárias:
 
 - **Arduino IDE**: Software open-source instalado
+- **Arduino UNO**: Placa Uno R3 SMD CH340G + Cabo USB para Arduino
 - **Módulo Relé Arduino**: 5V Dual-Channel Relay Module HW-383
 - **Sensor de umidade do solo**: Capacitive Soil Moisture Sensor v1.2
-- **iOS SDK**: minSdk 11.0
+- **Sensor de luminosidade**: BH1750 GY-302 Lux
+- **Sensor de umidade e temperatura**: DHT11
 
-## Configuração do Projeto
 
-# 1. Clone o repositório:
+# Configuração do Projeto
+
+## 1. Clone o repositório:
 
 Clone este repositório em sua máquina local com o seguinte comando:
 
@@ -26,13 +29,13 @@ git clone https://github.com/seu-usuario/n3Mobile.git
 cd flutter_auth
 
 
-# 2. Instale as dependências:
+## 2. Instale as dependências:
 Após clonar o repositório, instale as dependências do projeto executando o seguinte comando:
 bash
 Copiar código
 flutter pub get
 
-# 3. Executando o Projeto
+## 3. Executando o Projeto
 Dentro do projeto execute o comando "flutter_run" para inicializar o arquivo "main.dart"
 
 # Estrutura do Código
