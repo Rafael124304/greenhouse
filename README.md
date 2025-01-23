@@ -21,10 +21,10 @@ Antes de começar, certifique-se de que você possui as ferramentas necessárias
 # Configuração do Projeto
 
 ## 1. Fluxograma Luminosidade:
-![FLUXOGRAMA_LUMINOSIDADE](https://github.com/user-attachments/assets/24d9ad13-17f8-4753-b243-1cec8290a297)
+![FLUXOGRAMA_LUMINOSIDADE_ajustado](https://github.com/user-attachments/assets/2b1c2aba-d5d4-4f0c-939e-a9024139bba9)
 
 ## 2. Fluxograma Temperatura:
-![FLUXOGRAMA_TEMPERATURA](https://github.com/user-attachments/assets/c2a18070-38f6-4cef-af37-72af465d7101)
+![FLUXOGRAMA_TEMPERATURA_ajustado](https://github.com/user-attachments/assets/9e3963f4-c18f-4a68-bbd2-7b2632dfdb37)
 
-## 1. Fluxograma Umidade:
-![FLUXOGRAMA_UMIDADE](https://github.com/user-attachments/assets/5fa8fff8-8e18-4072-b85e-6fea21affa0b)
+## 3. Fluxograma Umidade:
+![FLUXOGRAMA_UMIDADE_ajustado](https://github.com/user-attachments/assets/f2627484-9ddf-4091-97f0-25f5c0d93a7c)
